@@ -31,7 +31,6 @@ customers.csv
 . factoextra
 
 . ggplot2
-
 . dplyr
 
 # K-means Algorithm
